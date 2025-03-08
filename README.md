@@ -13,7 +13,7 @@ Gallery is a simple image slider built using HTML, CSS, and JavaScript. It allow
 
 ## Installation
 
-1. **Clone the Repository:**
+**Clone the Repository:**
 
    Open your terminal and run:
 
@@ -21,7 +21,7 @@ Gallery is a simple image slider built using HTML, CSS, and JavaScript. It allow
    git clone https://github.com/Ank-25/Gallery.git
 
    cd Gallery
-
+   ```
 
 ## Usage
 
